@@ -17,7 +17,7 @@ Selamat datang di repositori ini! 🎉 Repositori ini berisi **implementasi pemr
 ## 🚀 **Cara Menggunakan**  
 1️⃣ **Clone repositori ini ke lokal Anda**  
    ```bash
-   git clone https://github.com/Image-Processing-Computer-Vision-dengan-OpenCV/Image-Processing-Computer-Vision-OpenCV.git
+   git clone https://github.com/AbdulFatahAmrulloh/Image-Processing-Computer-Vision-OpenCV.git
    ```  
 2️⃣ **Install dependensi yang diperlukan**  
    ```bash
@@ -47,4 +47,4 @@ Kami terbuka untuk pengembangan lebih lanjut! Jika Anda memiliki ide atau ingin 
 
 ---
 
-Pastikan Anda mengganti `https://github.com/Image-Processing-Computer-Vision-dengan-OpenCV/Image-Processing-Computer-Vision-OpenCV.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek pemrosesan citra ini! 🚀📷
+Pastikan Anda mengganti `https://github.com/AbdulFatahAmrulloh/Image-Processing-Computer-Vision-OpenCV.git` dengan URL repositori yang sesuai. Semoga sukses dengan proyek pemrosesan citra ini! 🚀📷
