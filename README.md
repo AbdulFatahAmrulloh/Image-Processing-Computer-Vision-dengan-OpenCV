@@ -1,4 +1,3 @@
-Berikut deskripsi yang menarik dan profesional untuk repositori **Image-Processing-Computer-Vision-dengan-OpenCV** di GitHub:  
 
 ---
 
